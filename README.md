@@ -1,7 +1,7 @@
 
 ## YOLO V5s Detecting and Training
 
-Pretrained model weights can download by : https://pan.baidu.com/s/1UqODFKeKrn0jqRSO8iPTKg, verified code is:  **yolo**.  Downloaded weights should be placed in **"pre_trained_model"** directory.
+Pretrained model weights can download by : https://pan.baidu.com/s/1UqODFKeKrn0jqRSO8iPTKg, verified code is:  **yolo**.  Downloaded weights should be placed in **"pre_trained_model"** directory in root of yolov5s directory. Also, downloaded videos should be placed in **"videos"** directory in root of yolov5s directory.
 
 
 
